@@ -1,4 +1,4 @@
-# eth-co2-emission-calculator
+# Ethereum Carbon Emissions Methodology
 
 At [CO2ken](https://www.co2ken.io/) we're driven by building the tools to make the web3 space planet-positive. For that purpose, we've partnered with [Offsetra](https://offsetra.com/) — carbon market experts and offset retailers — to make sure we build meaningful tools with meaningful impact.
 
